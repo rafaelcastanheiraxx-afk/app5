@@ -1,0 +1,9 @@
+{
+  "name": "APPG - Health Monitoring",
+  "description": "A comprehensive HealthTech application for monitoring glucose, blood pressure, heart rate, and more. Features offline-first architecture, ethical AI insights via Gemini, and clinical protocol references.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
